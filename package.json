@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/immissile/missile-body/issues"
   },
-  "homepage": "https://github.com/immissile/missile-body#readme"
+  "homepage": "https://github.com/immissile/missile-body#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-body": "^4.2.0",
+    "media-typer": "^0.3.0",
+    "missile-conext": "^1.0.0"
+  }
 }

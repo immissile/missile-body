@@ -1,6 +1,6 @@
 'use strict';
 var co = require('co');
-var conext = require('conext');
+var conext = require('missile-conext');
 var coBody = require('co-body');
 var typer = require('media-typer');
 
