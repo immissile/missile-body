@@ -1,0 +1,19 @@
+{
+  "name": "missile-body",
+  "version": "1.0.0",
+  "description": "body parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immissile/missile-body.git"
+  },
+  "author": "Missile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immissile/missile-body/issues"
+  },
+  "homepage": "https://github.com/immissile/missile-body#readme"
+}
