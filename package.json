@@ -1,6 +1,6 @@
 {
   "name": "missile-body",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "body parser",
   "main": "index.js",
   "scripts": {
